@@ -1,0 +1,5 @@
+## Onelinerjs
+
+#### shuffleArray
+#### getUnique
+#### generateRandomHexColor
